@@ -1,0 +1,13 @@
+2
+House Medison
+House
+45 Kelder Road
+1234
+150000.0
+15000.0
+12 January 2021
+true
+Architect: Jan Roodt, 0567893456, jan@arch.com, 89 Belford Road
+Contractor: Christopher Hurn, 0567893412, hurn@builder.com, 90 Forward Avenue
+Customer: Elana Medison, 0567894523, elana@gmail.com, 78 Puma Street
+###

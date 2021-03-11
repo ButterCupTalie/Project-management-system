@@ -1,0 +1,13 @@
+1
+House Fisher
+House
+12 Sunny Lane
+12345
+200000.0
+20000.0
+1 December 2021
+false
+Architect: John Smith, 0567834512, smith@architect.com, 19 Conifer Crescent 
+Contractor: Bob Marley, 0564389809, bob@builder.com, 78 Glad Street
+Customer: Pieter Fisher, 0673496745, fisher@gmail.com, 23 Pretty Street
+###
