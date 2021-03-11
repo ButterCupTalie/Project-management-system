@@ -13,3 +13,7 @@ Program features:
 that the customer must still pay. This amount is calculated by subtracting the total amount paid to date from the total fee for the project. If the customer has already paid 
 the full fee, an invoice is not generated. The project marked as “finalised” and the completion date is added. All the information about the project is added to a text file called 
 CompletedProject.txt.
+- See a list of projects that still need to be completed.
+- See a list of projects that are past the due date.
+- Find and select a project by entering either the project number or project name.
+
